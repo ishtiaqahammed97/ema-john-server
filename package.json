@@ -1,7 +1,6 @@
 {
   "name": "ema-john-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -18,6 +17,15 @@
     "mongodb": "^3.6.5"
   },
   "devDependencies": {
-    "nodemon": "^2.0.7"
-  }
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishtiaqahammed97/ema-john-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ishtiaqahammed97/ema-john-server/issues"
+  },
+  "homepage": "https://github.com/ishtiaqahammed97/ema-john-server#readme",
+  "description": ""
 }
